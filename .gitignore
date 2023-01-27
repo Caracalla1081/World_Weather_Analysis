@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 # Adding config.py file.
 config.py
 # Adding config.py files.
@@ -140,3 +141,5 @@ random_numbers.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
+=======
+>>>>>>> 0118daffac2467c267c79bc1eb7c26f0a8011b0c

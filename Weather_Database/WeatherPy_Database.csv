@@ -1,4 +1,4 @@
-City,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Barrow,US,71.2906,-156.7887,-7.58,84,0,12.66,light snow
 1,Juwana,ID,-6.715,111.1514,75.65,90,100,5.64,overcast clouds
 2,Sao Filipe,CV,14.8961,-24.4956,72.81,70,75,13.56,broken clouds
